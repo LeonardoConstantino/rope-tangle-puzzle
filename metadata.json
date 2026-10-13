@@ -1,0 +1,6 @@
+{
+  "name": "Rope Tangle Puzzle",
+  "description": "A tactile wooden puzzle game where you untangle physics-simulated ropes by moving peg endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
