@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/hero.png" alt="Rope Tangle Puzzle Hero Preview" width="760" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="./assets/hero.jpg" alt="Rope Tangle Puzzle Hero Preview" width="760" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 ---
